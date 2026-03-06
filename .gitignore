@@ -1,0 +1,23 @@
+# Simulation files
+sim.out
+*.vcd
+*.log
+
+# Vivado generated folders
+.runs/
+.gen/
+.Xil/
+.cache/
+
+# Vivado reports and logs
+*.jou
+*.str
+*.log
+
+# Bitstreams
+*.bit
+*.bin
+
+# OS junk
+.DS_Store
+Thumbs.db
